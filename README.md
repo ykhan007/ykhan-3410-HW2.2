@@ -1,4 +1,4 @@
-# YourInitials-3410-HW2.2
+# ykhan-3410-HW2.2
 
 ## Lesson 2.2 – Pixel Manipulation
 
